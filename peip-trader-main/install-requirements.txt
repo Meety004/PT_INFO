@@ -1,0 +1,10 @@
+ipykernel
+ipython
+matplotlib
+nbformat
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
+#tensorflow
